@@ -11,9 +11,11 @@ A passionate developer!
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I  know german!
 ### Connect with me 
- ["<img width="100" height="100" src="https://img.icons8.com/clouds/100/instagram-new--v1.png" alt="instagram-new--v1"/>](https://www.instagram.com/idkitshari/)
+ [<img width="50" height="50" src="https://img.icons8.com/clouds/100/instagram-new--v1.png" alt="instagram-new--v1"/>](https://www.instagram.com/idkitshari/)
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
